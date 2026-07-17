@@ -1,0 +1,129 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav{
+
+    height: 80px;
+    width: 100%;
+    background-color: #fcf9f9;
+    display: flex;
+}
+ul{
+    display: flex;
+    list-style: none;
+    margin-left: 230px;
+
+}
+li{
+    margin-left: 20px;
+    padding-top: 30px;
+    cursor: pointer;
+}
+
+.nak{
+    margin-left: 280px;
+    background-color: rgb(165, 53, 165);
+    font-size: 20px;
+    border-radius: 60px;
+    padding-left: 14px;
+    color: #ffffff;
+    height: 33px;
+    padding-top: 5px;
+    margin-top: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 27px;
+}
+h1{
+    display: inline;
+    margin-left: 20px;
+}
+#mn{
+    height: 27px;
+    width: 60px;
+    padding-left: 20px;
+    color: #ffffff;
+    padding-top: 9px;
+    border-radius: 5px;
+    margin-top: 20px;
+    background-color:rgb(180, 59, 180) ;
+
+}
+#moon{
+    height: 27px;
+    width: 70px;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding-left: 20px;
+    color: #ffffff;
+    padding-top: 9px;
+    background-color:rgb(180, 59, 180) ;
+
+}
+.kl{
+    color: black;
+    font-size: 25px;
+    margin-right: 70px;
+    margin-top:20px;
+    margin-left: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.main{
+    margin-top: 60px;
+  display: flex;
+  justify-content: center;
+  height: 600px;
+  width: 1300px;
+  background-color:#fcf9f9;
+  border-radius: 20px;
+}
+.box1{
+    color: black;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    padding-top: 40px;
+    font-size: 15px;
+}
+.lp{
+    height: 30px;
+    width: 90px;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding-left: 14px;
+    color: #ffffff;
+    padding-top: 9px;
+    background-color:rgb(180, 59, 180) ;
+
+}
+.o1{
+    display: flex;
+    gap: calc(125px);
+}
+.o2{
+    display: flex;
+    gap: calc(50px);
+    font-size: 18px;
+}
+.otp{
+    height: 600px;
+    width: 400px;
+    background-image: url(WhatsApp\ Image\ 2026-05-09\ at\ 12.06.07\ AM.jpeg);
+    background-size: cover;
+}
+.cake{
+    display: flex;
+  justify-content: center;    
+}
+img{
+    height: 100px;
+    background-size: cover;
+}
+
+
+
+
+
+
+
